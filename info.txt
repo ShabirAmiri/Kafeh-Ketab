@@ -1,0 +1,7 @@
+WinningAdeola11.
+id18444209_bookzone
+id18444209_bookvillage
+
+
+
+ <a href="fav.php?id=<?php echo $bookid; ?>" class="btn btn-outline-warning">اضافه کردن به علاقه مندی ها</a>
